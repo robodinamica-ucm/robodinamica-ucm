@@ -18,11 +18,14 @@ En esta cuenta, encontrarás una colección de proyectos centrados en la robóti
 
 ## Proyectos Destacados
 
-- **`Micro:bit` con Maqueen Plus**: Diseñado para seguimiento de líneas, este proyecto implementa algoritmos eficientes de control y detección de rutas utilizando el Maqueen Plus. Repositorio: Microbit Siguelineas
+- **`Micro:bit` con Maqueen Plus**: Diseñado para seguimiento de líneas, este proyecto implementa algoritmos eficientes de control y detección de rutas utilizando el Maqueen Plus.
+-  Repositorio: Microbit Siguelineas
   
-- **Inteligencia Artificial con HuskyLens**: Integramos HuskyLens para realizar reconocimiento de imágenes en nuestros robots, añadiendo capacidades de inteligencia artificial que les permiten identificar y responder a objetos y patrones visuales. Repositorio: Microbit AI
+- **Inteligencia Artificial con HuskyLens**: Integramos HuskyLens para realizar reconocimiento de imágenes en nuestros robots, añadiendo capacidades de inteligencia artificial que les permiten identificar y responder a objetos y patrones visuales.
+- Repositorio: Microbit AI
 
-- **Robots Controlados a Distancia**: Creamos robots personalizados que funcionan a control remoto, utilizando Arduino y Raspberry Pi junto con App Inventor para el desarrollo de interfaces móviles, ampliando las opciones de interacción y control en tiempo real. Repositorio RC Development
+- **Robots Controlados a Distancia**: Creamos robots personalizados que funcionan a control remoto, utilizando Arduino y Raspberry Pi junto con App Inventor para el desarrollo de interfaces móviles, ampliando las opciones de interacción y control en tiempo real.
+- Repositorio: RC Development
 
 - **Robots de Competición para Seguimiento de Líneas**: Con un enfoque en la precisión y la velocidad, estos robots están diseñados para competiciones, donde se requiere un alto rendimiento en la detección de trayectorias. Este proyecto aún está en sus fases iniciales y aún no tiene repositorio.
 
@@ -60,9 +63,6 @@ Gracias por tu interés en mejorar nuestros proyectos. ¡Esperamos trabajar cont
 
 
 
-
-
-Here is the full translation:
 
 ---
 
