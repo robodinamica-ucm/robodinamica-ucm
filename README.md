@@ -22,7 +22,11 @@ En esta cuenta, encontrarás una colección de proyectos centrados en la robóti
 -  Repositorio: Microbit Siguelineas
   
 - **Inteligencia Artificial con HuskyLens**: Integramos HuskyLens para realizar reconocimiento de imágenes en nuestros robots, añadiendo capacidades de inteligencia artificial que les permiten identificar y responder a objetos y patrones visuales.
-- Repositorio: Microbit AI
+  - Repositorio: Microbit AI
+    Este repositorio es manual donde subimos los códigos de los programas y los archivos .hex para poder importarlos directamente con Makecode IDE. 
+  - Repositorio: Microbit AI makecode
+    Este repositorio se genera automáticamente al conectar Makecode IDE con github. Sólo permite tener un proyecto(un programa) y no está disponible en el makecode offline(la aplicación de windows).
+  
 
 - **Robots Controlados a Distancia**: Creamos robots personalizados que funcionan a control remoto, utilizando Arduino y Raspberry Pi junto con App Inventor para el desarrollo de interfaces móviles, ampliando las opciones de interacción y control en tiempo real.
 - Repositorio: RC Development
